@@ -1,0 +1,50 @@
+body{
+    padding: 0;
+    margin: auto;
+    box-sizing: border-box;
+    background-image: url('res/Bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1{
+    color:black;
+    font-size: 150px;
+    font: 900;
+    font-family:cursive
+}
+
+video{
+    height: 350px;
+    width: 350px;
+    margin-left: 50px;
+}
+
+.container{
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+img{
+    height: 250px;
+    width: 250px;
+    margin: 20px;
+}
+
+table{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   
+}
+
+.line{
+    width: 1200px;
+    height: 5px;
+    background-color:black;
+    margin-left: 400px;
+}
